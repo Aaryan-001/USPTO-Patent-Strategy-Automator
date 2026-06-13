@@ -15,11 +15,11 @@ To automate the manual IP lifecycle management process. This tool bypasses stand
 
 ### Executive Excel Dashboard
 *Features: Automated KPIs, interactive tables, and a conditionally formatted White Space Heatmap.*
-![Excel Dashboard](INSERT_EXCEL_SCREENSHOT_NAME_HERE.png)
+![Excel Dashboard](Excel.png)
 
 ### Automated Strategy Presentation
 *Features: Auto-generated charting and data-driven insights highlighting specific market opportunities.*
-![PowerPoint Deck](INSERT_PPT_SCREENSHOT_NAME_HERE.png)
+![PowerPoint Deck](Powerpoint.png)
 
 ## ⚙️ How to Run Locally
 1. Clone this repository.
